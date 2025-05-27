@@ -12,13 +12,13 @@ Description of scripts:
 
 The code has been tested with the following system dependencies and python packages:
 
-FSL (version 6.0.7.15)
-MRtrix3 (version 3.0.4)
+- FSL (version 6.0.7.15)
+- MRtrix3 (version 3.0.4)
 
-python (version 3.11.11)
-numpy (version 2.1.3)
-nibabel (version 5.3.2)
-dmipy (version 1.0.5)
-pandas (version 2.2.3)
-scipy (version 1.14.1)
-matplotlib (version 3.9.2)
+- python (version 3.11.11)
+- numpy (version 2.1.3)
+- nibabel (version 5.3.2)
+- dmipy (version 1.0.5)
+- pandas (version 2.2.3)
+- scipy (version 1.14.1)
+- matplotlib (version 3.9.2)
