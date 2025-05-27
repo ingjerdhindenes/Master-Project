@@ -9,7 +9,7 @@ This Github repository includes all scripts created for, and used, in the master
 
 **model_design_and_testing.ipynb** is a script that is used to test different variations of a multi-compartment model on a selected ROI by adjusting parameter optimization ranges to see if it affects fit quality. The script saves mean squeared error (MSE) and R2 coefficient of determination values to a file. 
 
-**multi_compartment_model.ipynb** is used to aplly the selected model design to all DWI data.
+**multi_compartment_model.ipynb** is used to apply the selected model design to all DWI data.
 
 **combine_dataframes.ipynb** merges dataframes. This script was created because issues arose when trying to loop over multiple subjects in the model_design_and_testing.ipynb and multi_compartment_model.ipynb scripts. Therefore a script was created to merge all the single row dataframes saved from these previous scripts.
 
